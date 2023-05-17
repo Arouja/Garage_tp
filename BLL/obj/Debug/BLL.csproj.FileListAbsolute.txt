@@ -1,0 +1,12 @@
+D:\Garage_TP\BLL\bin\Debug\BLL.dll
+D:\Garage_TP\BLL\bin\Debug\BLL.pdb
+D:\Garage_TP\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Garage_TP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Garage_TP\BLL\obj\Debug\BLL.dll
+D:\Garage_TP\BLL\obj\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\Garage_TP\BLL\bin\Debug\BLL.dll
+C:\Users\lenovo\Desktop\Garage_TP\BLL\bin\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\Garage_TP\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Garage_TP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Garage_TP\BLL\obj\Debug\BLL.dll
+C:\Users\lenovo\Desktop\Garage_TP\BLL\obj\Debug\BLL.pdb
